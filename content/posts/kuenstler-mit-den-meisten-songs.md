@@ -15,4 +15,4 @@ Das Podest:
 
 ---
 
-![Diagramm der Künstler mi den meisten Songs](/img/kuenstler-mit-meisten-songs.png)
+![Diagramm der Künstler mit den meisten Songs](img/kuenstler-mit-meisten-songs.png)

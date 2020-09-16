@@ -19,4 +19,4 @@ Das Podest:
 
 ---
 
-![](/img/durchschnittliche-zeit-zwischen-2-plays-des-gleichen-kuenstlers.png)
+![Diagramm der durchschnittlichen Zeit zwischen 2 Plays des gleichen Künstlers](img/durchschnittliche-zeit-zwischen-2-plays-des-gleichen-kuenstlers.png)

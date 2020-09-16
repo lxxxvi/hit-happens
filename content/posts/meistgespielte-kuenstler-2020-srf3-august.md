@@ -11,4 +11,4 @@ Das Podest der meistgespielten Künstler von Januar bis Ende August 2020 sieht w
 2. Hecht mit _426_ plays
 3. Bastian Baker mit _415_ plays
 
-![Screenshot der Rangliste der meistgespielten Künstlern auf SRF3 bis ende August](/img/meistgespielte-kuenstler-2020-srf3-august.png)
+![Screenshot der Rangliste der meistgespielten Künstlern auf SRF3 bis ende August](img/meistgespielte-kuenstler-2020-srf3-august.png)

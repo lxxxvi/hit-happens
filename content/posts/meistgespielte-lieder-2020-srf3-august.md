@@ -15,4 +15,4 @@ Das Podest sieht wie folgt aus.
 
 ---
 
-![Screenshot der Rangliste der meistgespielten Liedern auf SRF3](/img/meistgespielte-lieder-2020-srf3-august.png)
+![Rangliste der meistgespielten Liedern auf SRF3](img/meistgespielte-lieder-2020-srf3-august.png)

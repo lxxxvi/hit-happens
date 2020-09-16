@@ -11,6 +11,6 @@ Bei der Untersuchung ist aufgefallen, dass das Lied _"Slow Down Take It Easy"_ v
 
 Das Lied wurde 2010 für eine Präventionskampagne für angepasste Geschwindigkeit im Strassenverkehr veröffentlicht.
 
-![Diagramm wie oft das Lied in Tagesstunden gespielt wird](/img/da-sign-and-the-opposite-slow-down-take-it-easy.png)
+![Diagramm wie oft das Lied in Tagesstunden gespielt wird](img/da-sign-and-the-opposite-slow-down-take-it-easy.png)
 
 {{< youtube pE9p4A3IExs >}}

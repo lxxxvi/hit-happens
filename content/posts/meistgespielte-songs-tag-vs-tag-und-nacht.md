@@ -22,4 +22,4 @@ SRF3 betreibt von Montag bis Freitag zwischen 19:00 Uhr und 20:00 Uhr ein Progra
 
 ---
 
-![Rangliste der meistgespielten Songs, vergleich zwischen Tag versus Tag und Nacht](/img/meistgespielte-songs-tag-vs-tag-und-nacht.png)
+![Rangliste der meistgespielten Songs, vergleich zwischen Tag versus Tag und Nacht](img/meistgespielte-songs-tag-vs-tag-und-nacht.png)
