@@ -1,5 +1,5 @@
 ---
-title: "Meistgespielte Songs: Vergleich 'Tag' vs 'Tag und Nacht'"
+title: "SRF3: Meistgespielte Songs: Vergleich 'Tag' vs 'Tag und Nacht'"
 description: "Gibt es einen grossen Unterschied, wenn die Plays in der Nacht nicht berücksichtigt werden?"
 date: 2020-09-14T10:00:00+02:00
 draft: false
@@ -22,4 +22,4 @@ SRF3 betreibt von Montag bis Freitag zwischen 19:00 Uhr und 20:00 Uhr ein Progra
 
 ---
 
-![Rangliste der meistgespielten Songs, vergleich zwischen Tag versus Tag und Nacht](img/meistgespielte-songs-tag-vs-tag-und-nacht.png)
+![Rangliste der meistgespielten Songs, vergleich zwischen Tag versus Tag und Nacht](image.png)

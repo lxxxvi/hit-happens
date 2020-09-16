@@ -1,5 +1,5 @@
 ---
-title: "Höchste Anzahl Plays an einem Tag"
+title: "SRF3: Höchste Anzahl Plays an einem Tag"
 description: "Was ist das Maximum an Plays des gleichen Songs?"
 date: 2020-09-07T10:00:00+02:00
 draft: false

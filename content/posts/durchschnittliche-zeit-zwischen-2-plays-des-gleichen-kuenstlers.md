@@ -1,5 +1,5 @@
 ---
-title: "Durchschnittliche Zeit zwischen 2 Plays des gleichen Künstlers"
+title: "SRF3: Durchschnittliche Zeit zwischen 2 Plays des gleichen Künstlers"
 description: "Welche Künstler werden am oftesten gespielt?"
 date: 2020-09-03T11:00:00+02:00
 draft: false
@@ -19,4 +19,4 @@ Das Podest:
 
 ---
 
-![Diagramm der durchschnittlichen Zeit zwischen 2 Plays des gleichen Künstlers](img/durchschnittliche-zeit-zwischen-2-plays-des-gleichen-kuenstlers.png)
+![Diagramm der durchschnittlichen Zeit zwischen 2 Plays des gleichen Künstlers](image.png)

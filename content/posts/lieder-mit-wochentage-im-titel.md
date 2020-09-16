@@ -1,5 +1,5 @@
 ---
-title: "Lieder mit Wochentagen im Titel"
+title: "SRF3: Lieder mit Wochentagen im Titel"
 description: "Werden Lieder mit Wochentage im Titel auch mehrheitlich an diesen Tagen gespielt?"
 date: 2020-09-01T10:00:00+02:00
 draft: false
@@ -17,7 +17,7 @@ Auch interessant, es gibt offenbar keine Lieder mit _"Wednesday"_ oder _"Thursda
 
 ## Monday
 
-![Diagramm der Lieder mit Monday im Titel](img/lieder-mit-wochentagen-im-titel-monday.png)
+![Diagramm der Lieder mit Monday im Titel](monday.png)
 
 **Songs**
 
@@ -26,7 +26,7 @@ Auch interessant, es gibt offenbar keine Lieder mit _"Wednesday"_ oder _"Thursda
 
 ## Tuesday
 
-![Diagramm der Lieder mit Tuesday im Titel](img/lieder-mit-wochentagen-im-titel-tuesday.png)
+![Diagramm der Lieder mit Tuesday im Titel](tuesday.png)
 
 **Songs**
 
@@ -37,7 +37,7 @@ Auch interessant, es gibt offenbar keine Lieder mit _"Wednesday"_ oder _"Thursda
 
 ## Friday
 
-![Diagramm der Lieder mit Friday im Titel](img/lieder-mit-wochentagen-im-titel-friday.png)
+![Diagramm der Lieder mit Friday im Titel](friday.png)
 
 **Songs**
 
@@ -51,7 +51,7 @@ Auch interessant, es gibt offenbar keine Lieder mit _"Wednesday"_ oder _"Thursda
 
 ## Saturday
 
-![Diagramm der Lieder mit Saturday im Titel](img/lieder-mit-wochentagen-im-titel-saturday.png)
+![Diagramm der Lieder mit Saturday im Titel](saturday.png)
 
 **Songs**
 
@@ -62,7 +62,7 @@ Auch interessant, es gibt offenbar keine Lieder mit _"Wednesday"_ oder _"Thursda
 
 ## Sunday
 
-![Diagramm der Lieder mit Sunday im Titel](img/lieder-mit-wochentagen-im-titel-sunday.png)
+![Diagramm der Lieder mit Sunday im Titel](sunday.png)
 
 **Songs**
 

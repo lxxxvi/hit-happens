@@ -1,5 +1,5 @@
 ---
-title: "Meistgespielte Lieder 2020 auf SRF3 per Ende August"
+title: "SRF3: Meistgespielte Lieder 2020 auf SRF3 per Ende August"
 description: "Die 30 meistgespielten Lieder  von Januar bis August 2020 auf SRF3"
 date: 2020-08-31T10:00:00+02:00
 draft: false
@@ -15,4 +15,4 @@ Das Podest sieht wie folgt aus.
 
 ---
 
-![Rangliste der meistgespielten Liedern auf SRF3](img/meistgespielte-lieder-2020-srf3-august.png)
+![Rangliste der meistgespielten Liedern auf SRF3](image.png)

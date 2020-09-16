@@ -1,5 +1,5 @@
 ---
-title: "Künstler mit den meisten Songs"
+title: "SRF3: Künstler mit den meisten Songs"
 description: "Welche Künstler haben die grösste Anzahl an Songs?"
 date: 2020-09-03T10:00:00+02:00
 draft: false
@@ -15,4 +15,4 @@ Das Podest:
 
 ---
 
-![Diagramm der Künstler mit den meisten Songs](img/kuenstler-mit-meisten-songs.png)
+![Diagramm der Künstler mit den meisten Songs](image.png)
