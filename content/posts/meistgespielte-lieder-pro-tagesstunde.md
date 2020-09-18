@@ -66,7 +66,7 @@ _The Weeknd - BLINDING LIGHTS_ gewinnt Tagesstunde _15:00 - 15:59_, dies aufgrun
 
 ### Gewinner der ersten Tageshälfte (00:00 - 11:59)
 
-![Diagram der Gewinner der zweiten Tageshälfte](morning_songs.jpg)
+![Diagram der Gewinner der ersten Tageshälfte](morning_songs.jpg)
 
 ### Gewinner der zweiten Tageshälfte (12:00 - 23:59)
 
