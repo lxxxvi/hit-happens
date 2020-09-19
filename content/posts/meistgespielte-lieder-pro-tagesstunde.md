@@ -21,7 +21,7 @@ Die Stunde _20:00 - 20:59_ scheint am abwechslungsreichsten zu sein: Der Song _K
 
 Das Lied _BLUE WEDNESDAY - BIRTHDAY GIRL_ welches die Tagesstunde _10:00 - 10:59_ gewinnt, wird praktisch jeden Sonntag um die gleiche Zeit (ca. 10:58) angespielt, quasi Tradition.
 
-_The Weeknd - BLINDING LIGHTS_ gewinnt Tagesstunde _15:00 - 15:59_, dies aufgrund der wöchentlichen Hitparade am Sonntag. [Dieser Post](posts/weeknd-blinding-lights-plays-in-tagesstunde/) erklärt das Phänomen genauer.
+_The Weeknd - BLINDING LIGHTS_ gewinnt Tagesstunde _15:00 - 15:59_, dies aufgrund der wöchentlichen Hitparade am Sonntag. [Dieser Post](/hit-happens/posts/weeknd-blinding-lights-plays-in-tagesstunde/) erklärt das Phänomen genauer.
 
 ## Resultat
 
