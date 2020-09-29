@@ -293,3 +293,14 @@ content: 'Markdown';
 background: royalblue;
 color: whitesmoke ;
 }
+
+th {
+  font-weight: normal;
+}
+
+td, th {
+  border-style: dotted;
+  border-color: #ccc;
+  border-width: 2px;
+  border-collapse: collapse;
+}
