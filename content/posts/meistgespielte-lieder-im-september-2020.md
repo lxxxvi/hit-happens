@@ -6,7 +6,7 @@ draft: false
 ---
 
 * **Station: SRF3**
-* **Zeitspanne: 1. September 2020 - 31. September 2020**
+* **Zeitspanne: 1. September 2020 - 30. September 2020**
 
 Folgend die Ranglisten der meistgespielten Songs im September 2020.
 
